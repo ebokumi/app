@@ -24,13 +24,13 @@ exports.index = function(req, res) {
   name : 'Agile Infrastructure',
   info : 'Build system ignores `spec` files, allowing you to keep tests alongside code. Automatic injection of scripts and styles into your index.html'
   },  {
-  name : 'Infrastcture as a Code',
+  name : 'Infrastructure as a Code',
   info : 'Best practice client and server structures allow for more code reusability and maximum scalability'
   },  {
-  name : 'Continous Integration',
+  name : 'Continious Integration',
   info : 'Build process packs up your templates as a single JavaScript payload, minifies your scripts/css/images, and rewrites asset names for caching.'
   },{
-  name : 'Continous Deployment',
+  name : 'Continious Deployment',
   info : 'Easily deploy your app to Heroku or Openshift with the heroku and openshift subgenerators'
   }
   ]);
